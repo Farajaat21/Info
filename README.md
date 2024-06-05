@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @XNETBOY
-- 👀 I’m interested in playing fortnite on my iphone 
-- 🌱 I’m currently learning nothing but i will do my best 
-- 💞️ I’m looking to collaborate on fortnite 
+- 👋 Hi, I’m Faraja
+- 👀 I’m interested in creating web-site
+- 🌱 I’m currently learning Java,Python,and React 
+- 💞️ I’m looking to collaborate on some web-projects 
 - 📫 How to reach me is @farajaat21
 
 <!---
-if u want to reach me-go to youtube them search XNETBOY- for free leason 
+if u want to reach me-text 346-441-6405
